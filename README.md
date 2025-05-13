@@ -30,7 +30,7 @@ TypeScript enhances code quality and project maintainability through its strong 
 
 ---
 
-### 1. Type Checking
+### ✅ 1. Type Checking
 
 TypeScript checks types at compile time—**before the code runs**, preventing many common runtime errors.
 
@@ -42,7 +42,7 @@ function add(a: number, b: number) {
 add("5", 10); // ❌ Error: Argument of type 'string' is not assignable to parameter of type 'number'.
 ```
 
-### 2. Early Error Detection
+### ✅ 2. Early Error Detection
 
 Errors are caught early in the development process, leading to:
 
@@ -50,11 +50,11 @@ Errors are caught early in the development process, leading to:
 - Easier debugging
 - Reduced time spent on testing to find bugs
 
-### 3. Scalability
+### ✅ 3. Scalability
 
 As projects grow, TypeScript’s strict typing and modular structure help maintain large project.
 
-### 4. Better Collaboration
+### ✅ 4. Better Collaboration
 
 Types clarify intent and usage, making it easier for teams to collaborate.
 
