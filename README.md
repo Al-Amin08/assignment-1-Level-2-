@@ -58,6 +58,4 @@ As projects grow, TypeScript’s strict typing and modular structure help mainta
 
 Types clarify intent and usage, making it easier for teams to collaborate.
 
-```
 
-```
