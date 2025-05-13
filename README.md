@@ -24,6 +24,9 @@ let message: string = "Hello, world!"; // No need to explicitly declare type
 message = 42; // ❌ Error: Type 'number' is not assignable to type 'string'
 ```
 
+
+
+
 # 2. 📈 How TypeScript Improves Code Quality and Maintainability
 
 TypeScript enhances code quality and project maintainability through its strong static type system and developer tooling. Below are key benefits that make it a preferred choice for scalable application development:
