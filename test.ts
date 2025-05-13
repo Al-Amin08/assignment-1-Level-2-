@@ -39,16 +39,13 @@ class Car extends Vehicle {
   }
 }
 
-const myCar = new Car("Toyota", 2020, "Corolla");
-
-// function processValue(value: string | number): number {
-//   if (typeof value === "string") {
-//     return value.length;
-//   }
-//   if (typeof value === "number") {
-//     return value * 2;
-//   }
-// }
+function processValue(value: string | number): number {
+  if (typeof value === "string") {
+    return value.length;
+  } else {
+    return value * 2;
+  }
+}
 
 interface Product {
   name: string;
